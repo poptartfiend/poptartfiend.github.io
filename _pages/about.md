@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: An Exploration in creating order out of chaos.
-description: Board is a stylish full-width masonry grid theme.
+description: Andrew Nakhla - A Sydney/Berlin based emerging artist. 
 featured_image: /images/0001.JPG
 ---
 
