@@ -1,6 +1,6 @@
 ---
 title: Prints
-subtitle: A limited edition set of prints available
+subtitle: A limited edition set of signed prints
 description: Andrew Nakhla - Prints available for purchase
 featured_image: /images/0002.JPG
 ---
