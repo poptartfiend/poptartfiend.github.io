@@ -1,7 +1,7 @@
-site: Board Jekyll Theme
+site: Andrew Nakhla
 
-url: 
-baseurl: 
+url: andrewnakhla.com
+baseurl: "/"
 
 collections:
   pages:

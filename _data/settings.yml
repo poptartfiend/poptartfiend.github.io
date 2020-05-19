@@ -1,5 +1,5 @@
 basic_settings:
-  site_title: Board
+  site_title: ANDREW NAKHLA
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -10,15 +10,15 @@ menu_settings:
   menu_items:
     - title: 'Projects'
       url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: 'Prints'
+      url: '/prints/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Board – a stylish full-width masonry grid Jekyll theme
+  footer_tagline: Andrew Nakhla - A Portfolio
 
 grid_settings:
   overlay_opacity: 0.8
