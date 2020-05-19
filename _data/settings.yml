@@ -11,7 +11,7 @@ menu_settings:
     - title: 'Projects'
       url: '/'
     - title: 'Prints'
-      url: '/prints/'
+      url: '/prints'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
