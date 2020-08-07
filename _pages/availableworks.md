@@ -1,6 +1,6 @@
 ---
-title: Prints
-subtitle: A limited edition set of signed prints
+title: Available Works
+subtitle: A limited edition set of works currently available. 
 description: Andrew Nakhla - Prints available for purchase
 featured_image: /images/0002.JPG
 ---
@@ -8,6 +8,8 @@ featured_image: /images/0002.JPG
 ![](/images/0002.JPG)
 
 ## Currently Available
+
+Please email for enquiries. 
 
 <div class="gallery" data-columns="3">
 	<img src="/images/x1.jpg">
