@@ -5,7 +5,7 @@ description: Andrew Nakhla - A Sydney/Berlin based emerging artist.
 featured_image: /images/0001.JPG
 ---
 
-![](/images/0001.JPG)
+![](/images/head shot.jpg)
 
 ## Bio
 
